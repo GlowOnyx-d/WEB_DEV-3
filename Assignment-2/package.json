@@ -1,0 +1,12 @@
+{
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "description": "Student Management REST API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
